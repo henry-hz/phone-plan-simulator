@@ -9,7 +9,9 @@
 #define	PHONEPLAN_HPP
 
 class PhonePlan {
+    // the base fee that you have to pay every month
     double base_fee;
+    // how many minutes your phone company include in the base fee
     double included_minutes;
     double aditional_minutes;
     double long_distance_fee;
