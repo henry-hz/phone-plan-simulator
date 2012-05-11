@@ -20,6 +20,7 @@ public:
     Simulator();
     Simulator(const Simulator& orig);
     void PrintDistribution();
+	// use this method to create a distribution on how you use your phone plan
     double* GenerateNormalDistribution(const double& , const double& , const int& );
     double* GenerateTriangularDistribution(const double&, const double&, const double&, const int&);
     virtual ~Simulator();
