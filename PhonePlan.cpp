@@ -6,7 +6,7 @@
  */
 
 #include "PhonePlan.hpp"
-// unlimited_i_m = se eh plano ilimitado
+// unlimited_i_m = se eh plano  ilimitado
 // base_fee = mensalidade
 // in_min   = minutos inclusos
 // add_min  = minutos adicionais
